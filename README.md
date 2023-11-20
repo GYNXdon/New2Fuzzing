@@ -23,7 +23,7 @@ In the contract, echidna_state_less_than_10 and echidna_state_greater_than_0 are
 
 To run these tests with Echidna, you would use the following command in the correct repository:
 
-echidna-test TestContract.sol
+echidna-test IntroMultiTest.sol
 
 This command tells Echidna to run all tests in the TestContract.sol file. Echidna will automatically find all functions that start with echidna_ and run them as tests.
 
@@ -37,7 +37,7 @@ If you wanted the test to pass, you could experiment and modify the contract (su
 
 Any help? Feel free to reach out. 
 
-# BONUS Steful/Stateless
+# BONUS Stateful/Stateless
 
 A stateful test is a type of property test that maintains the state of the contract between each function call. 
 This is in contrast to a stateless test, where Echidna discards state changes during fuzzing.
