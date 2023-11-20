@@ -25,7 +25,7 @@ To run these tests with Echidna, you would use the following command in the corr
 
 echidna-test IntroMultiTest.sol
 
-This command tells Echidna to run all tests in the TestContract.sol file. Echidna will automatically find all functions that start with echidna_ and run them as tests.
+This command tells Echidna to run all tests in the IntroMultiTest.sol file. Echidna will automatically find all functions that start with echidna_ and run them as tests.
 
 # Test outcomes
 
