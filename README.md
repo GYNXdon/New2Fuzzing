@@ -1,6 +1,6 @@
 # New2Fuzzing
 
-Beginners guide and basic introduction to Fuzzing, specifically Echidna.
+Beginners guide and basic introduction to Fuzzing, specifically Echidna. See other folders for other tools.
 
 # Property Testing
 
