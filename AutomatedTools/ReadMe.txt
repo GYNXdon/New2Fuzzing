@@ -24,9 +24,6 @@ False Positives/Negatives:
 Like any automated tool, Mythril may produce false positives (flagging safe code as vulnerable) or false negatives (missing actual vulnerabilities). 
 Users need to interpret the results carefully.
 
-Requires Technical Expertise: 
-
-To use Mythril effectively and understand its output, users need a good understanding of Ethereum smart contracts and security.
 
 # Install guide
 
